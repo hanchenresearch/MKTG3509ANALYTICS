@@ -26,4 +26,4 @@ This is the portfolio of all class assignments I have completed in MKTG3509 Cust
 10. **Module 10: Text Analysis**
     - [A10 Vegas Resorts Text Mining](https://templeu.instructure.com/courses/100008/assignments/1350601)
 11. **Module 11: Use GitHub to Create Your Assignment Portfolio**
-    - [A11 Market Your Custoemr Data Analytics Skills](https://templeu.instructure.com/courses/100008/assignments/1350603?module_item_id=3434885)
+    - [A11 Market Your Custoemr Data Analytics Skills](https://github.com/hanchenresearch/MKTG3509ANALYTICS/blob/main/README.md)
