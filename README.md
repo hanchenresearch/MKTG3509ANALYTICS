@@ -1,4 +1,4 @@
-# MKTG3509 Customer Data Analytics Portfolio
+# (DEMO) MKTG3509 Customer Data Analytics Portfolio
 This is the portfolio of all class assignments I have completed in MKTG3509 Customer Data Analytics. There are a total of 11 assignments, one for each module. 
 
 ## My Résumé
