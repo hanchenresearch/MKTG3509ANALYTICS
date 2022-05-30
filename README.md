@@ -1,4 +1,4 @@
-# (DEMO) MKTG3509 Customer Data Analytics Portfolio
+# MKTG3509 Customer Data Analytics Portfolio (Please replace the link under each module with your own Colab file.)
 This is the portfolio of all class assignments I have completed in MKTG3509 Customer Data Analytics. There are a total of 11 assignments, one for each module. 
 
 ## My Résumé
